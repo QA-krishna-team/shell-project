@@ -1,0 +1,11 @@
+ 1. ./script
+•	Runs the script in the foreground of the current terminal.
+•	The process is tied to the terminal session.
+•	If you close the terminal or log out, the script will stop.
+•	Output is displayed directly in the terminal.
+2. nohup ./script &
+•	nohup (no hangup): Prevents the process from stopping if the terminal is closed.
+•	&: Runs the script in the background, freeing the terminal for other commands.
+•	Output is redirected to a file called nohup.out by default (unless redirected manually).
+•	The script continues running even after logout or terminal close.
+
