@@ -4,7 +4,7 @@
 # ==========================
 TO="shravankumarbangari23@gmail.com"
 GMAIL_USER="shravankumarbangari23@gmail.com"
-GMAIL_PASS="whgqkgroogramlmh"  # 16-char App Password
+GMAIL_PASS="uugtorteztkksepv"  # 16-char App Password
 
 # Thresholds
 RAM_THRESHOLD=10
